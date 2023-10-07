@@ -21,4 +21,7 @@ This project takes part in my Tableau Public account , you can use that link to 
 - [Tableau Public](https://www.tableau.com/products/public) 
 
 ## Screenshot
+
 ![Sales_Dashboard!](Sales_Dashboard.png)
+
+![Sales_Dashboard1!](Sales_Dashboard1.png)
